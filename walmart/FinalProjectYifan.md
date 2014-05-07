@@ -1,7 +1,7 @@
 #Walmart Recruiting - Store Sales Forecasting
 
 ##Goal:
-Use historical markdown data to predict store sales. 
+Use historical markdown data to predict store sales. [model file](https://github.com/liyifan5923013/DataScience_demo/blob/master/walmart/Walmart-Data.R)
 
 ##Dataset:
  * stores.csv: Include 45 stores and their type and size 
